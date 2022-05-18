@@ -1,0 +1,111 @@
+[
+    {
+        "units" : "750 ml",
+        "measurement" : "750 ml ",
+        "abbreviation" : "750 ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "500 ml",
+        "measurement" : "500 ml",
+        "abbreviation" : "500 ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "330 ml",
+        "measurement" : "330 ml",
+        "abbreviation" : "330 ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "1 litre",
+        "measurement" : "1 litre",
+        "abbreviation" : "1 litre",
+        "description" : "N/A"
+    },
+    {
+        "units" : "4.5 litres",
+        "measurement" : "4.5 litres",
+        "abbreviation" : "4.5 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "3 litres",
+        "measurement" : "3 litres",
+        "abbreviation" : "3 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "5 litres",
+        "measurement" : "5 litres",
+        "abbreviation" : "5 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "250 ml",
+        "measurement" : "250 ml",
+        "abbreviation" : "250 ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "700 ml",
+        "measurement" : "700 ml",
+        "abbreviation" : "700 ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "1.5 litre",
+        "measurement" : "1.5 litre",
+        "abbreviation" : "1.5 litre",
+        "description" : "N/A"
+    },
+    {
+        "units" : "4 litres",
+        "measurement" : "4 litres",
+        "abbreviation" : "4 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "1.125 litres",
+        "measurement" : "1.125 litres",
+        "abbreviation" : "1.125 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "2 litres",
+        "measurement" : "2 litres",
+        "abbreviation" : "2 litres",
+        "description" : "N/A"
+    },
+    {
+        "units" : "1 pack",
+        "measurement" : "1 pack",
+        "abbreviation" : "1 pack",
+        "description" : "N/A"
+    },
+    {
+        "units" : "1 roll",
+        "measurement" : "1 roll",
+        "abbreviation" : "1 roll",
+        "description" : "N/A"
+    },
+    {
+        "units" : "50ml",
+        "measurement" : "50ml",
+        "abbreviation" : "50ml",
+        "description" : "N/A"
+    },
+    {
+        "units" : "42gms",
+        "measurement" : "42gms",
+        "abbreviation" : "42gms",
+        "description" : "N/A"
+    },
+    {
+        "units" : "200ml",
+        "measurement" : "200ml",
+        "abbreviation" : "200ml",
+        "description" : "N/A"
+    }
+
+]

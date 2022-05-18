@@ -1,0 +1,641 @@
+[
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bcc"
+        },
+        "name": "whisky",
+        "url": "whisky",
+        "active": true,
+        "photo": "Qgv-whisky banner.png",
+        "subcategories": [
+            {
+                "name": "single-malt"
+            },
+            {
+                "name": "blended-scotch-whisky"
+            },
+            {
+                "name": "american-bourbon-whisky"
+            },
+            {
+                "name": "japanese-whisky"
+            },
+            {
+                "name": "indian-whisky"
+            },
+            {
+                "name": "irish-whisky"
+            },
+            {
+                "name": "canadian-whisky"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-11-20T13:43:23.189Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.366Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bcd"
+        },
+        "name": "champagne",
+        "url": "champagne",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "brut-champagne"
+            },
+            {
+                "name": "rose-champagne"
+            },
+            {
+                "name": "vintage-champagne"
+            },
+            {
+                "name": "non-vintage-champagne"
+            },
+            {
+                "name": "demi-sec-champagne"
+            },
+            {
+                "name": "blancs-de-blancs-champagne"
+            },
+            {
+                "name": "yellow-champagne"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-12-04T16:35:50.220Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.366Z"
+        },
+        "menu": "wines",
+        "mobile_banner": ""
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bce"
+        },
+        "name": "others",
+        "url": "others",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "soft-drinks"
+            },
+            {
+                "name": "energy-drinks"
+            },
+            {
+                "name": "aperitif-bitters"
+            },
+            {
+                "name": "condoms"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:35:29.044Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.367Z"
+        },
+        "menu": "more"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bcf"
+        },
+        "name": "vodka",
+        "url": "vodka",
+        "active": true,
+        "photo": "n6A-cocktail.jpg",
+        "subcategories": [
+            {
+                "name": "plain-vodka"
+            },
+            {
+                "name": "flavoured-vodka"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-12-15T11:49:59.705Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.367Z"
+        },
+        "menu": "spirits",
+        "mobile_banner": "ZNj-common-banner.webp"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd0"
+        },
+        "name": "beer",
+        "url": "beer",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "alcopops"
+            },
+            {
+                "name": "cider-beer"
+            },
+            {
+                "name": "malt-beer"
+            },
+            {
+                "name": "lite-beer"
+            },
+            {
+                "name": "lager-beer"
+            },
+            {
+                "name": "stout-beer"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:35:59.417Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.368Z"
+        },
+        "menu": "beer"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd1"
+        },
+        "name": "wine",
+        "url": "wine",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "red-wine"
+            },
+            {
+                "name": "white-wine"
+            },
+            {
+                "name": "rose-wine"
+            },
+            {
+                "name": "sparkling-wine"
+            },
+            {
+                "name": "vermouth-wine"
+            },
+            {
+                "name": "port-wine"
+            },
+            {
+                "name": "cabernet-sauvignon"
+            },
+            {
+                "name": "merlot"
+            },
+            {
+                "name": "malbec"
+            },
+            {
+                "name": "shiraz"
+            },
+            {
+                "name": "pinotage"
+            },
+            {
+                "name": "zinfandel"
+            },
+            {
+                "name": "chardonnay"
+            },
+            {
+                "name": "sauvignon-blanc"
+            },
+            {
+                "name": "chenin-blanc"
+            },
+            {
+                "name": "pinot-grigio"
+            },
+            {
+                "name": "red-sweet-wine"
+            },
+            {
+                "name": "white-sweet-wine"
+            },
+            {
+                "name": "red-dry-wine"
+            },
+            {
+                "name": "white-dry-wine"
+            },
+            {
+                "name": "cabernet-blush"
+            },
+            {
+                "name": "cabernet-franc"
+            },
+            {
+                "name": "riesling"
+            },
+            {
+                "name": "pinot-noir"
+            },
+            {
+                "name": "pinot-gris"
+            },
+            {
+                "name": "moscato"
+            },
+            {
+                "name": "vermouth"
+            },
+            {
+                "name": "fortified-wine"
+            },
+            {
+                "name": "non-alcoholic-wine"
+            },
+            {
+                "name": "south-african-wine"
+            },
+            {
+                "name": "prosecco-wine"
+            },
+            {
+                "name": "sangria"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:37:59.797Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.368Z"
+        },
+        "menu": "wines"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd2"
+        },
+        "name": "tequila",
+        "url": "tequila",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "tequila-gold"
+            },
+            {
+                "name": "tequila-silver"
+            },
+            {
+                "name": "tequila-reposado"
+            },
+            {
+                "name": "tequila-anejo"
+            },
+            {
+                "name": "tequila-flavoured"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:38:14.447Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.369Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd3"
+        },
+        "name": "liqueur",
+        "url": "liqueur",
+        "active": true,
+        "photo": "q3r-liqueur bana.png",
+        "subcategories": [
+            {
+                "name": "cream-liqueurs"
+            },
+            {
+                "name": "fruit-liqueurs"
+            },
+            {
+                "name": "herbal-liqueurs"
+            },
+            {
+                "name": "coffee-chocolate-liqueurs"
+            },
+            {
+                "name": "spirit-flavoured-liqueurs"
+            },
+            {
+                "name": "cocktail-liqueurs"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-12-03T08:10:02.443Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.369Z"
+        },
+        "menu": "spirits",
+        "mobile_banner": ""
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd4"
+        },
+        "name": "brandy",
+        "url": "brandy",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "cognac"
+            },
+            {
+                "name": "armagnac"
+            },
+            {
+                "name": "french-brandy"
+            },
+            {
+                "name": "south-african-brandy"
+            },
+            {
+                "name": "spanish-brandy"
+            },
+            {
+                "name": "other-brandies"
+            },
+            {
+                "name": "vs-brandy"
+            },
+            {
+                "name": "vsop-brandy"
+            },
+            {
+                "name": "xo-brandy"
+            },
+            {
+                "name": "napoleon-brandy"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:38:54.566Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.370Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd5"
+        },
+        "name": "cognac",
+        "url": "cognac",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "vs-cognac"
+            },
+            {
+                "name": "vsop-cognac"
+            },
+            {
+                "name": "xo-cognac"
+            },
+            {
+                "name": "napoleon-cognac"
+            },
+            {
+                "name": "hors-d-age-cognac"
+            },
+            {
+                "name": "extra-cognac"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:39:25.050Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.370Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd6"
+        },
+        "name": "gin",
+        "url": "gin",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "london-dry-gin"
+            },
+            {
+                "name": "flavoured-gin"
+            },
+            {
+                "name": "international-style-gin"
+            },
+            {
+                "name": "plymouth-gin"
+            },
+            {
+                "name": "sloe-gin"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:39:46.684Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.371Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd7"
+        },
+        "name": "rum",
+        "url": "rum",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "spiced-rum"
+            },
+            {
+                "name": "dark-rum"
+            },
+            {
+                "name": "black-rum"
+            },
+            {
+                "name": "navy-rum"
+            },
+            {
+                "name": "white-rum"
+            },
+            {
+                "name": "gold-rum"
+            },
+            {
+                "name": "premium-aged-rum"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:40:06.085Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.371Z"
+        },
+        "menu": "spirits"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd8"
+        },
+        "name": "offers",
+        "url": "offers",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "alcohol-offers"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:40:40.656Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.372Z"
+        },
+        "menu": "more"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bd9"
+        },
+        "name": "cigarettes",
+        "url": "cigarettes",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "lights"
+            },
+            {
+                "name": "kings"
+            },
+            {
+                "name": "switch"
+            },
+            {
+                "name": "double-switch"
+            },
+            {
+                "name": "cigars"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:41:00.506Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.372Z"
+        },
+        "menu": "more"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bda"
+        },
+        "name": "cocktails",
+        "url": "cocktails",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "mg-spirits"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:41:22.208Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.373Z"
+        },
+        "menu": "more"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bdb"
+        },
+        "name": "condom",
+        "url": "condom",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "durex"
+            },
+            {
+                "name": "rough-rider"
+            },
+            {
+                "name": "lube"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:41:40.165Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.373Z"
+        },
+        "menu": "more"
+    },
+    {
+        "_id": {
+            "oid": "5f7310ae3578b07ad73c7bdc"
+        },
+        "name": "gifts",
+        "url": "gifts",
+        "active": true,
+        "photo": "",
+        "subcategories": [
+            {
+                "name": "whisky"
+            },
+            {
+                "name": "cognac"
+            },
+            {
+                "name": "wine"
+            }
+        ],
+        "updated_at": {
+            "date": "2020-10-09T17:42:04.495Z"
+        },
+        "created_at": {
+            "date": "2020-09-29T10:47:10.374Z"
+        },
+        "menu": "more"
+    }
+]

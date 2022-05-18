@@ -1,0 +1,650 @@
+[
+    {
+        "url": "whisky",
+        "name": "whisky",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "single-malt"
+            },
+            {
+                "name": "blended-scotch-whisky"
+            },
+            {
+                "name": "american-bourbon-whisky"
+            },
+            {
+                "name": "japanese-whisky"
+            },
+            {
+                "name": "indian-whisky"
+            },
+            {
+                "name": "irish-whisky"
+            },
+            {
+                "name": "canadian-whisky"
+            }
+        ]
+    },
+    {
+        "url": "champagne",
+        "name": "champagne",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "brut-champagne"
+            },
+            {
+                "name": "rose-champagne",
+                "children": [
+                ]
+            },
+            {
+                "name": "vintage-champagne",
+                "children": [
+                ]
+            },
+            {
+                "name": "non-vintage-champagne",
+                "children": [
+                ]
+            },
+            {
+                "name": "demi-sec-champagne",
+                "children": [
+                ]
+            },
+            {
+                "name": "blancs-de-blancs-champagne",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "others",
+        "name": "others",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "soft-drinks",
+                "children": [
+                ]
+            },
+            {
+                "name": "energy-drinks",
+                "children": [
+                ]
+            },
+            {
+                "name": "aperitif-bitters",
+                "children": [
+                ]
+            },
+            {
+                "name": "condoms",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "vodka",
+        "name": "vodka",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "plain-vodka",
+                "children": [
+                ]
+            },
+            {
+                "name": "flavoured-vodka",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "beer",
+        "name": "beer",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "alcopops",
+                "children": [
+                ]
+            },
+            {
+                "name": "cider-beer",
+                "children": [
+                ]
+            },
+            {
+                "name": "malt-beer",
+                "children": [
+                ]
+            },
+            {
+                "name": "lite-beer",
+                "children": [
+                ]
+            },
+            {
+                "name": "lager-beer",
+                "children": [
+                ]
+            },
+            {
+                "name": "stout-beer",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "wine",
+        "name": "wine",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "red-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "white-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "rose-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "sparkling-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "vermouth-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "port-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "cabernet-sauvignon",
+                "children": [
+                ]
+            },
+            {
+                "name": "merlot",
+                "children": [
+                ]
+            },
+            {
+                "name": "malbec",
+                "children": [
+                ]
+            },
+            {
+                "name": "shiraz",
+                "children": [
+                ]
+            },
+            {
+                "name": "pinotage",
+                "children": [
+                ]
+            },
+            {
+                "name": "zinfandel",
+                "children": [
+                ]
+            },
+            {
+                "name": "chardonnay",
+                "children": [
+                ]
+            },
+            {
+                "name": "sauvignon-blanc",
+                "children": [
+                ]
+            },
+            {
+                "name": "chenin-blanc",
+                "children": [
+                ]
+            },
+            {
+                "name": "pinot-grigio",
+                "children": [
+                ]
+            },
+            {
+                "name": "red-sweet-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "white-sweet-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "red-dry-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "white-dry-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "cabernet-blush",
+                "children": [
+                ]
+            },
+            {
+                "name": "cabernet-franc",
+                "children": [
+                ]
+            },
+            {
+                "name": "riesling",
+                "children": [
+                ]
+            },
+            {
+                "name": "pinot-noir",
+                "children": [
+                ]
+            },
+            {
+                "name": "pinot-gris",
+                "children": [
+                ]
+            },
+            {
+                "name": "moscato",
+                "children": [
+                ]
+            },
+            {
+                "name": "vermouth",
+                "children": [
+                ]
+            },
+            {
+                "name": "fortified-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "non-alcoholic-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "south-african-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "prosecco-wine",
+                "children": [
+                ]
+            },
+            {
+                "name": "sangria",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "tequila",
+        "name": "tequila",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "tequila-gold",
+                "children": [
+                ]
+            },
+            {
+                "name": "tequila-silver",
+                "children": [
+                ]
+            },
+            {
+                "name": "tequila-reposado",
+                "children": [
+                ]
+            },
+            {
+                "name": "tequila-anejo",
+                "children": [
+                ]
+            },
+            {
+                "name": "tequila-flavoured",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "liqueur",
+        "name": "liqueur",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "cream-liqueurs",
+                "children": [
+                ]
+            },
+            {
+                "name": "fruit-liqueurs",
+                "children": [
+                ]
+            },
+            {
+                "name": "herbal-liqueurs",
+                "children": [
+                ]
+            },
+            {
+                "name": "coffee-chocolate-liqueurs",
+                "children": [
+                ]
+            },
+            {
+                "name": "spirit-flavoured-liqueurs",
+                "children": [
+                ]
+            },
+            {
+                "name": "cocktail-liqueurs",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "brandy",
+        "name": "brandy",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "armagnac",
+                "children": [
+                ]
+            },
+            {
+                "name": "french-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "south-african-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "spanish-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "other-brandies",
+                "children": [
+                ]
+            },
+            {
+                "name": "vs-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "vsop-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "xo-brandy",
+                "children": [
+                ]
+            },
+            {
+                "name": "napoleon-brandy",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "cognac",
+        "name": "cognac",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "vs-cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "vsop-cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "xo-cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "napoleon-cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "hors-d-age-cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "extra-cognac",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "gin",
+        "name": "gin",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "london-dry-gin",
+                "children": [
+                ]
+            },
+            {
+                "name": "flavoured-gin",
+                "children": [
+                ]
+            },
+            {
+                "name": "international-style-gin",
+                "children": [
+                ]
+            },
+            {
+                "name": "plymouth-gin",
+                "children": [
+                ]
+            },
+            {
+                "name": "sloe-gin",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "rum",
+        "name": "rum",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "spiced-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "dark-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "black-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "navy-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "white-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "gold-rum",
+                "children": [
+                ]
+            },
+            {
+                "name": "premium-aged-rum",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "offers",
+        "name": "offers",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "alcohol-offers",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "cigarettes",
+        "name": "cigarettes",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "lights",
+                "children": [
+                ]
+            },
+            {
+                "name": "kings",
+                "children": [
+                ]
+            },
+            {
+                "name": "switch",
+                "children": [
+                ]
+            },
+            {
+                "name": "double-switch",
+                "children": [
+                ]
+            },
+            {
+                "name": "cigars",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "cocktails",
+        "name": "cocktails",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "mg-spirits",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "condom",
+        "name": "condom",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "durex",
+                "children": [
+                ]
+            },
+            {
+                "name": "rough-rider",
+                "children": [
+                ]
+            },
+            {
+                "name": "lube",
+                "children": [
+                ]
+            }
+        ]
+    },
+    {
+        "url": "gifts",
+        "name": "gifts",
+        "active": true,
+        "subcategories": [
+            {
+                "name": "whisky",
+                "children": [
+                ]
+            },
+            {
+                "name": "cognac",
+                "children": [
+                ]
+            },
+            {
+                "name": "wine",
+                "children": [
+                ]
+            }
+        ]
+    }
+]
